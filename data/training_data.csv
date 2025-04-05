@@ -1,0 +1,67 @@
+timestamp,from_address,to_address,weather,congestion_level,toll_cost,carpool_available,accidents_nearby,construction_nearby,road_closed,travel_time_seconds,infrastructure_cost
+2024-03-01 07:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,4,0.0,no,0,1,no,2700,0.0
+2024-03-01 07:15:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,5,0.0,no,1,1,no,3300,0.0
+2024-03-01 07:30:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Cloudy,5,0.0,no,1,1,no,3900,0.0
+2024-03-01 07:45:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Rain,5,0.0,no,2,1,yes,5400,0.0
+2024-03-01 08:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Rain,5,0.0,no,2,1,yes,5700,0.0
+2024-03-01 08:15:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Cloudy,4,0.0,no,1,1,no,3600,0.0
+2024-03-01 08:30:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,3,0.0,yes,0,1,no,2700,0.0
+2024-03-01 08:45:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,3,0.0,yes,0,0,no,2400,0.0
+2024-03-01 09:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,1800,0.0
+2024-03-01 10:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,1800,0.0
+2024-03-01 11:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,1,0.0,yes,0,0,no,1500,0.0
+2024-03-01 12:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,1,0.0,yes,0,0,no,1500,0.0
+2024-03-01 13:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,1800,0.0
+2024-03-01 14:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,1800,0.0
+2024-03-01 15:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Cloudy,3,0.0,no,0,0,no,2100,0.0
+2024-03-01 16:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Cloudy,4,0.0,no,0,1,no,2700,0.0
+2024-03-01 16:15:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Rain,4,0.0,no,1,1,no,3300,0.0
+2024-03-01 16:30:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Rain,5,0.0,no,1,1,yes,4200,0.0
+2024-03-01 16:45:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Rain,5,0.0,no,2,1,yes,4500,0.0
+2024-03-01 17:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Cloudy,4,0.0,no,1,1,no,3300,0.0
+2024-03-01 17:15:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,3,0.0,yes,0,1,no,2700,0.0
+2024-03-01 17:30:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,2400,0.0
+2024-03-01 17:45:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,2100,0.0
+2024-03-01 18:00:00,6118 127th PL SE Bellevue,Seattle Waterfront Office,Sunny,1,0.0,yes,0,0,no,1800,0.0
+2024-03-01 07:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,1,5.0,yes,0,0,no,2700,12.0
+2024-03-01 07:15:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,2,5.0,no,0,0,no,3000,12.0
+2024-03-01 07:30:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Cloudy,3,5.0,no,1,1,no,3600,12.0
+2024-03-01 07:45:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Rain,4,5.0,no,1,1,yes,4500,12.0
+2024-03-01 08:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Rain,4,5.0,no,0,0,yes,4800,12.0
+2024-03-01 08:15:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Cloudy,3,5.0,yes,0,0,no,3300,12.0
+2024-03-01 08:30:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,2,5.0,yes,0,0,no,2700,12.0
+2024-03-01 08:45:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,1,5.0,yes,0,0,no,2400,12.0
+2024-03-01 09:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,1,5.0,yes,0,0,no,2100,12.0
+2024-03-01 10:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,1,5.0,yes,0,0,no,2100,12.0
+2024-03-01 11:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,1,5.0,yes,0,0,no,2100,12.0
+2024-03-01 12:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,1,5.0,yes,0,0,no,2100,12.0
+2024-03-01 13:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,2,5.0,yes,0,0,no,2400,12.0
+2024-03-01 14:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,2,5.0,yes,0,0,no,2400,12.0
+2024-03-01 15:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Cloudy,3,5.0,no,0,0,no,2700,12.0
+2024-03-01 16:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Cloudy,4,5.0,no,0,1,no,3300,12.0
+2024-03-01 16:15:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Rain,4,5.0,no,1,1,no,3900,12.0
+2024-03-01 16:30:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Rain,5,5.0,no,1,1,yes,4800,12.0
+2024-03-01 16:45:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Rain,5,5.0,no,2,1,yes,5100,12.0
+2024-03-01 17:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Cloudy,4,5.0,no,1,1,no,3900,12.0
+2024-03-01 17:15:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,3,5.0,yes,0,1,no,3300,12.0
+2024-03-01 17:30:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,2,5.0,yes,0,0,no,3000,12.0
+2024-03-01 17:45:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,2,5.0,yes,0,0,no,2700,12.0
+2024-03-01 18:00:00,2714 Rucker Ave Everett,Seattle Waterfront Office,Sunny,1,5.0,yes,0,0,no,2400,12.0
+2024-03-01 07:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,3,0.0,yes,0,0,no,1200,3.0
+2024-03-01 07:15:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,4,0.0,no,0,0,no,1500,3.0
+2024-03-01 07:30:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Cloudy,5,0.0,no,1,1,no,2100,3.0
+2024-03-01 07:45:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Rain,5,0.0,no,1,1,yes,3000,3.0
+2024-03-01 08:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Rain,5,0.0,no,0,0,yes,3300,3.0
+2024-03-01 08:15:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Cloudy,4,0.0,yes,0,0,no,1800,3.0
+2024-03-01 08:30:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,3,0.0,yes,0,0,no,1200,3.0
+2024-03-01 08:45:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,900,3.0
+2024-03-01 09:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,1,0.0,yes,0,0,no,600,3.0
+2024-03-01 10:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,1,0.0,yes,0,0,no,600,3.0
+2024-03-01 11:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,1,0.0,yes,0,0,no,600,3.0
+2024-03-01 12:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,1,0.0,yes,0,0,no,600,3.0
+2024-03-01 13:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,900,3.0
+2024-03-01 14:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Sunny,2,0.0,yes,0,0,no,900,3.0
+2024-03-01 15:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Cloudy,3,0.0,no,0,0,no,1200,3.0
+2024-03-01 16:00:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Cloudy,4,0.0,no,0,1,no,1800,3.0
+2024-03-01 16:15:00,18515 103rd Ave NE Bothell,Seattle Waterfront Office,Rain,4,0.0,no,1,1,no,2400,3.0
+2024-03-01 16:30:00,18515
